@@ -9,7 +9,7 @@ import { FaLinkedinIn } from "react-icons/fa6";
 import Fresh from "./assets/Rectangle 15.png"
 import map from "./assets/Rectangle 13.png"
 import sat from "./assets/unsplash_QDq3YliZg48.png"
-import Link from "next/link";
+
 
 export default function Home(){
   return (
@@ -38,9 +38,9 @@ export default function Home(){
             />
           </div>
         </div>
-        <p className="font-Inter italic text-white absolute top-[410px] lg:top-[560px] lg:left-96">
-          &quot;When you buy organic, you&apos;re not just feeding your body, you&apos;re feeding the health of the planet.&quot; - Vishnu Thirumalai
-        </p>
+<p className="text-center text-base sm:text-lg font-inter">
+  At Greenbite, we&apos;re driven by a simple passion: connecting people with the bounty of nature. We believe everyone deserves access to fresh, organic produce, grown with respect for the land.
+</p>
       </div>
       <div className="w-full h-16 md:h-20 bg-cover bg-center mt-28"
         style={{
