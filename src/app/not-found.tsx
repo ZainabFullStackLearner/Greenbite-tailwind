@@ -1,5 +1,5 @@
 
-
+import Link from "next/link";
 const NotFound= () => {
   return (
     <div
@@ -22,3 +22,4 @@ const NotFound= () => {
     </div>
   );
 };
+export default NotFound;

@@ -10,7 +10,7 @@ const RegisterPage = () => {
     >
       <div className="absolute top-4 left-4 text-white text-sm sm:text-base font-inter flex items-center cursor-pointer mt-20 font-semibold">
         <Link href="/">
-          <a><span className="mr-2">&#8592;</span> Back</a>
+          <span className="mr-2">&#8592; </span> Back
         </Link>
       </div>
       

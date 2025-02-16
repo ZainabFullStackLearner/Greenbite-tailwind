@@ -46,8 +46,8 @@ export default function Home(){
         style={{
           backgroundImage: "url('https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')"
         }}>
-        <h2 className="text-white font-Inter font-bold text-xl pt-5 lg:text-[34px] ml-2 lg:ml-28">Our Links</h2>
-        <div className="flex flex-row lg:text-[30px] text-[23px] gap-5 ml-28 absolute top-[665px] lg:top-[750px] lg:left-64 lg:gap-11">
+        <h2 className="text-white font-Inter font-bold text-xl pt-8 lg:text-[34px] ml-2  lg:ml-28">Our Links</h2>
+        <div className="flex flex-row lg:text-[30px] text-[23px] gap-5 ml-28 absolute top-[665px] lg:top-[800px] lg:left-64 lg:gap-11">
           <FaInstagram className="bg-red-600 p-2 text-white rounded-full lg:w-11 lg:h-11 w-8 h-8" />
           <FaLinkedinIn className="bg-blue-600 p-2 text-white rounded-full lg:w-11 lg:h-11 w-8 h-8" />
           <ImFacebook className="bg-blue-500 p-2 text-white rounded-full lg:w-11 lg:h-11 w-8 h-8" />

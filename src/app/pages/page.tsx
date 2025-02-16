@@ -38,7 +38,7 @@ export default function About()
 
             {/* Description */}
             <p className="text-center text-base sm:text-lg font-inter">
-            At Greenbite, we're driven by a simple passion: connecting people with the bounty of nature. We believe everyone deserves access to fresh, organic produce, grown with respect for the land and nurtured with care. That's why we've created a convenient and reliable delivery service that brings the farm straight to your doorstep.
+            At Greenbite, we&apos;re driven by a simple passion: connecting people with the bounty of nature. We believe everyone deserves access to fresh, organic produce, grown with respect for the land and nurtured with care. Thats why we&apos;ve created a convenient and reliable delivery service that brings the farm straight to your doorstep.
             </p>
           </div>
         </div>
