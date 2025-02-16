@@ -5,7 +5,7 @@ const RegisterPage = () => {
     <div
       className="min-h-screen bg-cover bg-center flex items-center justify-center"
       style={{
-        backgroundImage:  `url('https://images.unsplash.com/photo-1539902743451-20dfa0a92ffd?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3[...]
+       backgroundImage: `url(https://images.unsplash.com/photo-1539902743451-20dfa0a92ffd?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)`
       }}
     >
       <div className="absolute top-4 left-4 text-white text-sm sm:text-base font-inter flex items-center cursor-pointer mt-20 font-semibold">
